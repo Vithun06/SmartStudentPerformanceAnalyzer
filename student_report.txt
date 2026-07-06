@@ -1,0 +1,21 @@
+=====================================
+ SMART STUDENT PERFORMANCE ANALYZER
+=====================================
+
+Student Name : Vithun
+
+Java : 95
+DSA : 98
+DBMS : 94
+SQL : 90
+Python : 80
+
+-------------------------------------
+Total Marks : 457
+Average : 91.40
+Percentage : 91.40%
+Grade : A+
+Rank : Excellent ⭐⭐⭐⭐
+Highest Subject : DSA (98)
+Lowest Subject : Python (80)
+Result : PASS
